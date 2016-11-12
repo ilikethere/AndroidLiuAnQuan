@@ -28,6 +28,10 @@ public class MainActivity extends AppCompatActivity
         Log.e("--Main--","liuanquna");
         Log.e("--Main--","liuanquna");
         Log.e("--Main--","liuanquna");
+        Log.e("--Main--","liuanquna");
+        Log.e("--Main--","liuanquna");
+        Log.e("--Main--","liuanquna");
+        Log.e("--Main--","liuanquna");
 
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
